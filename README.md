@@ -1,2 +1,2 @@
 # XmlSchema
-Contient tout un ensemble de code exemple au travers de normes XML
+Contains a whole set of example code through XML standards
