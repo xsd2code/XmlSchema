@@ -1,0 +1,9 @@
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.UBL\bin\Debug\netstandard2.1\Xsd2Code.XmlSchema.UBL.deps.json
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.UBL\bin\Debug\netstandard2.1\Xsd2Code.XmlSchema.UBL.dll
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.UBL\bin\Debug\netstandard2.1\Xsd2Code.XmlSchema.UBL.pdb
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.UBL\obj\Debug\netstandard2.1\Xsd2Code.XmlSchema.UBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.UBL\obj\Debug\netstandard2.1\Xsd2Code.XmlSchema.UBL.AssemblyInfoInputs.cache
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.UBL\obj\Debug\netstandard2.1\Xsd2Code.XmlSchema.UBL.AssemblyInfo.cs
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.UBL\obj\Debug\netstandard2.1\Xsd2Code.XmlSchema.UBL.csproj.CoreCompileInputs.cache
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.UBL\obj\Debug\netstandard2.1\Xsd2Code.XmlSchema.UBL.dll
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.UBL\obj\Debug\netstandard2.1\Xsd2Code.XmlSchema.UBL.pdb

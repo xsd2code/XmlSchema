@@ -1,0 +1,11 @@
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.FpML\obj\Debug\net5.0\Xsd2Code.XMLSchema.FpML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.FpML\obj\Debug\net5.0\Xsd2Code.XMLSchema.FpML.AssemblyInfoInputs.cache
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.FpML\obj\Debug\net5.0\Xsd2Code.XMLSchema.FpML.AssemblyInfo.cs
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.FpML\obj\Debug\net5.0\Xsd2Code.XMLSchema.FpML.csproj.CoreCompileInputs.cache
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.FpML\bin\Debug\net5.0\Xsd2Code.XMLSchema.FpML.deps.json
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.FpML\bin\Debug\net5.0\Xsd2Code.XMLSchema.FpML.dll
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.FpML\bin\Debug\net5.0\ref\Xsd2Code.XMLSchema.FpML.dll
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.FpML\bin\Debug\net5.0\Xsd2Code.XMLSchema.FpML.pdb
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.FpML\obj\Debug\net5.0\Xsd2Code.XMLSchema.FpML.dll
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.FpML\obj\Debug\net5.0\ref\Xsd2Code.XMLSchema.FpML.dll
+C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.FpML\obj\Debug\net5.0\Xsd2Code.XMLSchema.FpML.pdb

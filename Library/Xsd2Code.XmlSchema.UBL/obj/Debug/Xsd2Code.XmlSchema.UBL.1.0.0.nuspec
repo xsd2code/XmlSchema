@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Xsd2Code.XmlSchema.UBL</id>
+    <version>1.0.0</version>
+    <authors>Xsd2Code.XmlSchema.UBL</authors>
+    <description>Package Description</description>
+    <copyright>CodeNGine Technologies</copyright>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\emirkan.cakir\Downloads\XMLUBLFPML\XmlSchema\Library\Xsd2Code.XmlSchema.UBL\bin\Debug\netstandard2.1\Xsd2Code.XmlSchema.UBL.dll" target="lib\netstandard2.1\Xsd2Code.XmlSchema.UBL.dll" />
+  </files>
+</package>
