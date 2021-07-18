@@ -10,3 +10,11 @@ UBL/.vs/
 UBL/Xsd2Code.XmlSchema.UBL/.vs/
 
 UBL/Xsd2Code.XmlSchema.UBL/bin/
+/Library/Xsd2Code.XmlSchema.FpML/bin
+/Library/Xsd2Code.XmlSchema.FpML/obj
+/Library/Xsd2Code.XmlSchema.FpMLSample/obj
+/Library/Xsd2Code.XmlSchema.FpMLSample/bin
+/Library/Xsd2Code.XmlSchema.UBL/obj
+/Library/Xsd2Code.XmlSchema.UBL/bin
+/Library/Xsd2Code.XmlSchema.UBLSample/bin
+/Library/Xsd2Code.XmlSchema.UBLSample/obj
